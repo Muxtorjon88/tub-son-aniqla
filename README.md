@@ -1,2 +1,2 @@
 # tub-son-aniqla
-Berilgan ikki son oralig`idagi tub sonlarni ro`yxat ko`rinishida chiqarib beruvchi dastur
+Berilgan ikki son oraligidagi tub sonlarni royxat ko`rinishida chiqarib beruvchi dastur
